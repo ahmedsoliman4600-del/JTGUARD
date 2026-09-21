@@ -1,1 +1,5 @@
-JTGUARD
+JTGUARD FILTER
+ 
+Type=Unlimited User=Ahmed StartDate=2026-08-11 Years=10 Months=0 Days=5 RoayleOn=1 Hwid=3580465034403;922/38/5G/4H/2F/GH;:6:HH66/HGHG/632C/DD69/2F4EF28D;;F7
+Type=Unlimited User=Ali StartDate=2026-9-9 Years=0 Months=0 Days=14 RoayleOn=1 Hwid=3::062037403:622/38/5G/:2/FG/8C8;3;HGF9/C683/6D2D/:G22/F9FC89GH4647
+Type=Unlimited User=Abo_Sultan StartDate=2026-9-13 Years=0 Months=0 Days=15 RoayleOn=1 Hwid=3580465044603;222/38/5G/8;/6G/DE97F24;H9/36FE/6:C7/;E;3/F47H8D53535E
