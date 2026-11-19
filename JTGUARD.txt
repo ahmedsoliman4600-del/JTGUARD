@@ -4,3 +4,4 @@ Type=Ultimate User=Meda StartDate=2026-09-28 Years=10 Months=5 Days=1 RoayleOn=1
 Type=Ultimate User=PCBASEM2 StartDate=2026-11-26 Years=0 Months=1 Days=0 RoayleOn=1 Hwid=70;038:039:22/38/5G/7H/45/C7F5745364/G6C3/6EDC/;;DG/FDFEE3C95833
 Type=Ultimate User=Meda1 StartDate=2026-09-28 Years=10 Months=5 Days=1 RoayleOn=1 Hwid=7605904270348HC/38/5G/D2/65/73C;92DF58/G2GH/6E8G/;93H/E92F73E83G95
 Type=Ultimate User=elsanadidy StartDate=2026-11-9 Years=0 Months=1 Days=1 RoayleOn=1 Hwid=70;038:03:322/38/5G/6;/46/;7H:6;262:/:37;/6G6H/C;8E/86DC3G425:48
+Type=Ultimate User=Ali StartDate=2026-11-19 Years=0 Months=1 Days=1 RoayleOn=1 Hwid=70;03;90:822/72/78/22/68/:5::C5CEC6/9;3;/6C5C/C682/94CC37F42F;D
